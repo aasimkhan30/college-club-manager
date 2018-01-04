@@ -1,6 +1,6 @@
 ## College Clubs and Activity Manager
 
-A simple web application for managing Intra College web activities and Clubs. Some basic features are clubs creation, club registrations, activity creation and activity participation management.
+A simple web application for managing intra college activities and clubs. Some basic features are clubs creation, club registrations, activity creation and activity participation management.
 
 ### Prerequisites
 
