@@ -10,7 +10,7 @@ A simple web application for managing intra college activities and clubs. Some b
 
 * Copy the Project to the webserver.
 * Make a mysql database from the backup sql file in the DB.
-* Make  required changes in the includes/db.php of both admin and user panel.
+* Make  required changes in the includes/db.php.
 * Run the project from browser.
 
 
